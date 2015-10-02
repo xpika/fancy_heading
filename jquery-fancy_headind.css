@@ -1,0 +1,13 @@
+.outertable{
+  display:inline-table;
+}
+
+.cell {
+	display:table-cell;
+}
+
+.decordiv {
+	   background-color:red;
+     height:1px;
+     width:100px;
+}
