@@ -2,12 +2,8 @@
   display:inline-table;
 }
 
-.cell {
-	display:table-cell;
-}
-
 .decordiv {
-	   background-color:red;
+     background-color:black;
      height:1px;
      width:100px;
 }
