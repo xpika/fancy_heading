@@ -1,13 +1,31 @@
+   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+<style>
+.outertable{
+display:inline-table;
+}
 
 
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+
+
+
+.decordiv {
+	background-color:red;
+     height:1px;
+     width:100px;
+}
+
+</style>
 
 <script>
 
 
+
 function makeFancy(){
-    $("#heading").before("blah");
-    $("#heading").after("pf3333ft");
+
+
+
 }
 
 $(function() {                
@@ -18,6 +36,28 @@ $(function() {
 
 <body>
 
-<span id="heading">This is the heading</span>
+<span id="heading">
+Hell2
+</span>
+
+<table style="display:inline-table" > 
+<tr>
+<td ><div style="background-color:red;height:1px;width:100px">&nbsp;</div></td>
+<td>
+<span>
+HHellp
+</span>
+</td>
+<td><div style="background-color:red;height:1px;width:100px">&nbsp;</div></td>
+<td></tr>
+</table>
+
+<br>
+
+<table class="outertable"><tr><td><div class="decordiv">&nbsp;</div></td><td>
+<span>
+HHellp
+</span>
+</td><td><div class="decordiv">&nbsp;</div></td></tr></table>
 
 </body>
