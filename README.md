@@ -1,4 +1,4 @@
 # fancy_heading
 
 
-http://codekinder.com/raw/xpika/fancy_heading/master/page.html
+http://codekinder.com/raw/fancy_heading/master/page.html
