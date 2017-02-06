@@ -2,6 +2,5 @@
 
 optional jquery support
 
-http://codekinder.com/raw/fancy_heading/master/page.html
-
+https://rawgit.com/xpika/fancy_heading/master/page.html
 
